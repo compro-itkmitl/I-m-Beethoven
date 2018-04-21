@@ -5,7 +5,7 @@ This is a demo project for Computer Programming 2017
 - Connect arduino to pc/labtop
 - Run program arduino 1.8.5 with our source code
 - Place your mobile phone at the preparation point
-- Select the song in Pianotile2 application
+- Select the mode CLASSIC or ZEN in Pianotile application
 - Enjoy!
 # Requirements
 - PC/Laptop with Arduino 1.8.5 program
