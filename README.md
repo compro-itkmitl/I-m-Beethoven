@@ -9,7 +9,16 @@ This is a demo project for Computer Programming 2017
 - Enjoy!
 # Requirements
 - PC/Laptop with Arduino 1.8.5 program
-- Arduino Board with our device
+- Arduino Board
+- Wire
+- Moter (Servo SG90) x4
+- Stick x4
+- Coin battery x4
+- LDR x4
+- Resister x4
+- Protoboard x2
+- Piece of wood
+- Telephone
 # Author
 - Supakrit Apinyanapong 60070097
 - Anusorn Mannakred 60070110
