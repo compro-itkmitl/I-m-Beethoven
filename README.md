@@ -32,7 +32,7 @@ Project for Computer Programming 2017
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
 |![](/pic/t.jpg)| Supakrit | Apinyanapong | [@dsdlton](https://github.com/dsdlton) | 60070097 |
-|![](/pic/l.jpg)| Anosorn | Mennakred | [@anusornleo](https://github.com/anosornleo) | 60070110 |
+|![](/pic/l.jpg)| Anusorn | Mennakred | [@anusornleo](https://github.com/anosornleo) | 60070110 |
 |![](/pic/j.jpg)| Attawut | Arpornrat | [@jeriix](https://github.com/jeriix) | 60070116 |
 
 ---
